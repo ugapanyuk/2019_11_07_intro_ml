@@ -1,10 +1,10 @@
-# Практическое введение в машинное обучение. 07.11.2019
+п»ї# РџСЂР°РєС‚РёС‡РµСЃРєРѕРµ РІРІРµРґРµРЅРёРµ РІ РјР°С€РёРЅРЅРѕРµ РѕР±СѓС‡РµРЅРёРµ. 07.11.2019
 
-1. [Презентация](https://github.com/ugapanyuk/2019_11_07_intro_ml/blob/master/presentation/2019_11_07_intro_ml.pdf)
+1. [РџСЂРµР·РµРЅС‚Р°С†РёСЏ](https://github.com/ugapanyuk/2019_11_07_intro_ml/blob/master/presentation/2019_11_07_intro_ml.pdf)
 
-## Ноутбуки:
+## РќРѕСѓС‚Р±СѓРєРё:
 
-1. [Введение](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/0_intro.ipynb)
-1. [Метод k-ближайших соседей](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/1_knn.ipynb)
-1. [Анализ тональности](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/2_sentiment.ipynb)
+1. [Р’РІРµРґРµРЅРёРµ](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/0_intro.ipynb)
+1. [РњРµС‚РѕРґ k-Р±Р»РёР¶Р°Р№С€РёС… СЃРѕСЃРµРґРµР№](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/1_knn.ipynb)
+1. [РђРЅР°Р»РёР· С‚РѕРЅР°Р»СЊРЅРѕСЃС‚Рё](https://nbviewer.jupyter.org/github/ugapanyuk/2019_11_07_intro_ml/blob/master/notebooks/2_sentiment.ipynb)
 
